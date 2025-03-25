@@ -1,7 +1,7 @@
 ---
-title: "First post"
+title: "Game Over, Admin: Chaining Vulnerabilities to Own the CMS"
 description: "Lorem ipsum dolor sit amet"
-pubDate: "Jul 08 2022"
+pubDate: "Mar 25 2025"
 heroImage: "/blog-placeholder-3.jpg"
 ---
 
