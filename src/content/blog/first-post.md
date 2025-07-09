@@ -1,5 +1,5 @@
 ---
-title: "Game Over, Admin: Chaining Vulnerabilities to Own the CMS"
+title: "Game Over, Admin: How I have found a critical vulnerability and hacked a popular CMS - breakdown post"
 description: "Lorem ipsum dolor sit amet"
 pubDate: "Mar 25 2025"
 heroImage: "/blog-placeholder-3.jpg"
