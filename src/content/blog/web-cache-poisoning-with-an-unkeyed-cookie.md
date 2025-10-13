@@ -1,7 +1,7 @@
 ---
 title: "Web cache poisoning with an unkeyed cookie - Web Security Academy Lab Solution"
 description: ""
-pubDate: "Mar 25 2025"
+pubDate: "Apr 21 2020"
 heroImage: "/portswiggerlabs.png"
 ---
 
