@@ -5,4 +5,4 @@ pubDate: "Apr 21 2020"
 heroImage: "/portswiggerlabs.png"
 ---
 
-<iframe width="672" height="378" src="https://www.youtube.com/embed/Kl778PJDBns?si=z2cu9XgbhRfVes39" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="756" height="425" src="https://www.youtube.com/embed/Kl778PJDBns?si=z2cu9XgbhRfVes39" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
