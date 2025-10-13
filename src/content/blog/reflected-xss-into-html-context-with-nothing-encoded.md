@@ -1,5 +1,5 @@
 ---
-title: "Web cache poisoning with an unkeyed cookie - Web Security Academy Lab Solution"
+title: "Reflected XSS into HTML context with nothing encoded - Web Security Academy Lab Solution"
 description: ""
 pubDate: "Apr 22 2020"
 heroImage: "/portswiggerlabs.png"
