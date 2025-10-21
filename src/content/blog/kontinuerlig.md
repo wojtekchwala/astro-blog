@@ -11,4 +11,4 @@ During Hack.lu 2025, I encountered KONTINUERLIG - a deceptively elegant challeng
 The challenge presents you with a seemingly innocent private GitHub repository containing three workflow files and a single secret named flag. Your mission? Extract that flag. Simple, right? Not quite.
 
 > [!NOTE]
-> KONTINUERLIG (Norwegian for "continuous" - a nod to CI/CD) brilliantly demonstrates real-world attack patterns found in production GitHub Actions configurations. It's not just a CTF challenge; it's a cautionary tale about the security pitfalls of CI/CD pipelines that many organizations face today.
+> KONTINUERLIG (Norwegian for "continuous" - a nod to CI/CD) brilliantly demonstrates real-world attack patterns found in production GitHub Actions configurations. It's not just a CTF challenge, it's a cautionary tale about the security pitfalls of CI/CD pipelines that many organizations face today.
